@@ -1,7 +1,7 @@
 {
-  "exams": [
+  "https://nexushubuniverce.netlify.app": [
     {
-      "slug": "neet",
+      "slug": "/",
       "name": "NEET",
       "fullName": "National Eligibility cum Entrance Test",
       "category": "Medical entrance",
